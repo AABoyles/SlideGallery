@@ -14,8 +14,17 @@ problem.  30 miuntes of Javascript, HTML, and PHP later and here you go!
 
 SlideGallery uses Reveal.js to handle all the complicated, slideshow stuff.
 
+
+PHP
+---
 To make a SlideGallery, put all your images into the images/ directory of this 
 repo and deploy it to any PHP server.
+
+
+Python
+------
+To make a SlideGallery, put all your images into the images/ directory of this
+repo and run python index.py
 
 
 LICENSE
